@@ -10,17 +10,20 @@ import UIKit
 
 class SignUpViewController: UIViewController {
 
+    @IBOutlet weak var emailField: UITextFieldX!
+    @IBOutlet weak var passworfField: UITextFieldX!
+    
+    @IBOutlet weak var regBtn: UIButtonX!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        
+        emailField.alpha = 0
+        passworfField.alpha = 0
+        regBtn.alpha = 0
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-    
 
     /*
     // MARK: - Navigation
@@ -32,4 +35,9 @@ class SignUpViewController: UIViewController {
     }
     */
 
+    @IBAction func emailPressed(_ sender: Any) {
+        emailField.alpha = 1
+        passworfField.alpha = 1
+        regBtn.alpha = 1
+    }
 }
