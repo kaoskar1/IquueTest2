@@ -13,6 +13,19 @@
 		063B854F1EE0343F0084F3BC /* iquue.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 063B854D1EE0343F0084F3BC /* iquue.xcdatamodeld */; };
 		063B85511EE034400084F3BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 063B85501EE034400084F3BC /* Assets.xcassets */; };
 		063B85541EE034400084F3BC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 063B85521EE034400084F3BC /* LaunchScreen.storyboard */; };
+		063B85661EE034550084F3BC /* UIButtonX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B855C1EE034550084F3BC /* UIButtonX.swift */; };
+		063B85671EE034550084F3BC /* UIImageViewX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B855D1EE034550084F3BC /* UIImageViewX.swift */; };
+		063B85681EE034550084F3BC /* UILabelX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B855E1EE034550084F3BC /* UILabelX.swift */; };
+		063B85691EE034550084F3BC /* UISliderX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B855F1EE034550084F3BC /* UISliderX.swift */; };
+		063B856A1EE034550084F3BC /* UITextFieldX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B85601EE034550084F3BC /* UITextFieldX.swift */; };
+		063B856B1EE034550084F3BC /* UIViewAnchorPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B85611EE034550084F3BC /* UIViewAnchorPoint.swift */; };
+		063B856C1EE034550084F3BC /* UIViewControllerX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B85621EE034550084F3BC /* UIViewControllerX.swift */; };
+		063B856D1EE034550084F3BC /* UIViewX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B85631EE034550084F3BC /* UIViewX.swift */; };
+		063B856E1EE034550084F3BC /* UIViewXRadialGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B85641EE034550084F3BC /* UIViewXRadialGradient.swift */; };
+		063B856F1EE034550084F3BC /* UIVisualEffectViewX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B85651EE034550084F3BC /* UIVisualEffectViewX.swift */; };
+		063B85741EE05EF00084F3BC /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B85731EE05EF00084F3BC /* SignUpViewController.swift */; };
+		063B85761EE06EAE0084F3BC /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 063B85751EE06EAE0084F3BC /* GoogleService-Info.plist */; };
+		58C1903F9E0CFE24243A09A5 /* Pods_iquue.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52E22D0D46AC37243EB2A635 /* Pods_iquue.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +37,21 @@
 		063B85501EE034400084F3BC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		063B85531EE034400084F3BC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		063B85551EE034400084F3BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		063B855C1EE034550084F3BC /* UIButtonX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIButtonX.swift; sourceTree = "<group>"; };
+		063B855D1EE034550084F3BC /* UIImageViewX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIImageViewX.swift; sourceTree = "<group>"; };
+		063B855E1EE034550084F3BC /* UILabelX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UILabelX.swift; sourceTree = "<group>"; };
+		063B855F1EE034550084F3BC /* UISliderX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UISliderX.swift; sourceTree = "<group>"; };
+		063B85601EE034550084F3BC /* UITextFieldX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITextFieldX.swift; sourceTree = "<group>"; };
+		063B85611EE034550084F3BC /* UIViewAnchorPoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewAnchorPoint.swift; sourceTree = "<group>"; };
+		063B85621EE034550084F3BC /* UIViewControllerX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewControllerX.swift; sourceTree = "<group>"; };
+		063B85631EE034550084F3BC /* UIViewX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewX.swift; sourceTree = "<group>"; };
+		063B85641EE034550084F3BC /* UIViewXRadialGradient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewXRadialGradient.swift; sourceTree = "<group>"; };
+		063B85651EE034550084F3BC /* UIVisualEffectViewX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIVisualEffectViewX.swift; sourceTree = "<group>"; };
+		063B85731EE05EF00084F3BC /* SignUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		063B85751EE06EAE0084F3BC /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		52E22D0D46AC37243EB2A635 /* Pods_iquue.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iquue.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8B5D8AAE039CC8B1D049F428 /* Pods-iquue.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iquue.debug.xcconfig"; path = "Pods/Target Support Files/Pods-iquue/Pods-iquue.debug.xcconfig"; sourceTree = "<group>"; };
+		F302DA878F7E8BB4B47BCB69 /* Pods-iquue.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iquue.release.xcconfig"; path = "Pods/Target Support Files/Pods-iquue/Pods-iquue.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +59,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				58C1903F9E0CFE24243A09A5 /* Pods_iquue.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +71,8 @@
 			children = (
 				063B85451EE0343F0084F3BC /* iquue */,
 				063B85441EE0343F0084F3BC /* Products */,
+				8E61BB85A0C567468BB8D982 /* Pods */,
+				F057BAF66FB441695352E2D1 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,15 +87,76 @@
 		063B85451EE0343F0084F3BC /* iquue */ = {
 			isa = PBXGroup;
 			children = (
+				063B85721EE05EBB0084F3BC /* controller */,
+				063B85711EE034670084F3BC /* model */,
+				063B85701EE0345A0084F3BC /* view */,
+				063B855B1EE034550084F3BC /* DesignableX */,
 				063B85461EE0343F0084F3BC /* AppDelegate.swift */,
-				063B85481EE0343F0084F3BC /* ViewController.swift */,
 				063B854A1EE0343F0084F3BC /* Main.storyboard */,
 				063B85501EE034400084F3BC /* Assets.xcassets */,
 				063B85521EE034400084F3BC /* LaunchScreen.storyboard */,
 				063B85551EE034400084F3BC /* Info.plist */,
+				063B85751EE06EAE0084F3BC /* GoogleService-Info.plist */,
 				063B854D1EE0343F0084F3BC /* iquue.xcdatamodeld */,
 			);
 			path = iquue;
+			sourceTree = "<group>";
+		};
+		063B855B1EE034550084F3BC /* DesignableX */ = {
+			isa = PBXGroup;
+			children = (
+				063B855C1EE034550084F3BC /* UIButtonX.swift */,
+				063B855D1EE034550084F3BC /* UIImageViewX.swift */,
+				063B855E1EE034550084F3BC /* UILabelX.swift */,
+				063B855F1EE034550084F3BC /* UISliderX.swift */,
+				063B85601EE034550084F3BC /* UITextFieldX.swift */,
+				063B85611EE034550084F3BC /* UIViewAnchorPoint.swift */,
+				063B85621EE034550084F3BC /* UIViewControllerX.swift */,
+				063B85631EE034550084F3BC /* UIViewX.swift */,
+				063B85641EE034550084F3BC /* UIViewXRadialGradient.swift */,
+				063B85651EE034550084F3BC /* UIVisualEffectViewX.swift */,
+			);
+			path = DesignableX;
+			sourceTree = "<group>";
+		};
+		063B85701EE0345A0084F3BC /* view */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = view;
+			sourceTree = "<group>";
+		};
+		063B85711EE034670084F3BC /* model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = model;
+			sourceTree = "<group>";
+		};
+		063B85721EE05EBB0084F3BC /* controller */ = {
+			isa = PBXGroup;
+			children = (
+				063B85481EE0343F0084F3BC /* ViewController.swift */,
+				063B85731EE05EF00084F3BC /* SignUpViewController.swift */,
+			);
+			name = controller;
+			sourceTree = "<group>";
+		};
+		8E61BB85A0C567468BB8D982 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				8B5D8AAE039CC8B1D049F428 /* Pods-iquue.debug.xcconfig */,
+				F302DA878F7E8BB4B47BCB69 /* Pods-iquue.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		F057BAF66FB441695352E2D1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				52E22D0D46AC37243EB2A635 /* Pods_iquue.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +166,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 063B85581EE034400084F3BC /* Build configuration list for PBXNativeTarget "iquue" */;
 			buildPhases = (
+				279C1DEA26A7C4FCFC93BAEC /* [CP] Check Pods Manifest.lock */,
 				063B853F1EE0343F0084F3BC /* Sources */,
 				063B85401EE0343F0084F3BC /* Frameworks */,
 				063B85411EE0343F0084F3BC /* Resources */,
+				1614D689A0DAE329B9A8076F /* [CP] Embed Pods Frameworks */,
+				7530431AE3FB7307ED810876 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -128,6 +223,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				063B85541EE034400084F3BC /* LaunchScreen.storyboard in Resources */,
+				063B85761EE06EAE0084F3BC /* GoogleService-Info.plist in Resources */,
 				063B85511EE034400084F3BC /* Assets.xcassets in Resources */,
 				063B854C1EE0343F0084F3BC /* Main.storyboard in Resources */,
 			);
@@ -135,13 +231,72 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		1614D689A0DAE329B9A8076F /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-iquue/Pods-iquue-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		279C1DEA26A7C4FCFC93BAEC /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		7530431AE3FB7307ED810876 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-iquue/Pods-iquue-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		063B853F1EE0343F0084F3BC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				063B856F1EE034550084F3BC /* UIVisualEffectViewX.swift in Sources */,
+				063B85661EE034550084F3BC /* UIButtonX.swift in Sources */,
+				063B85671EE034550084F3BC /* UIImageViewX.swift in Sources */,
+				063B856E1EE034550084F3BC /* UIViewXRadialGradient.swift in Sources */,
+				063B856D1EE034550084F3BC /* UIViewX.swift in Sources */,
 				063B854F1EE0343F0084F3BC /* iquue.xcdatamodeld in Sources */,
+				063B856B1EE034550084F3BC /* UIViewAnchorPoint.swift in Sources */,
+				063B85681EE034550084F3BC /* UILabelX.swift in Sources */,
+				063B85741EE05EF00084F3BC /* SignUpViewController.swift in Sources */,
+				063B856C1EE034550084F3BC /* UIViewControllerX.swift in Sources */,
+				063B856A1EE034550084F3BC /* UITextFieldX.swift in Sources */,
 				063B85491EE0343F0084F3BC /* ViewController.swift in Sources */,
+				063B85691EE034550084F3BC /* UISliderX.swift in Sources */,
 				063B85471EE0343F0084F3BC /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -261,6 +416,7 @@
 		};
 		063B85591EE034400084F3BC /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8B5D8AAE039CC8B1D049F428 /* Pods-iquue.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = HFRBUUM266;
@@ -274,6 +430,7 @@
 		};
 		063B855A1EE034400084F3BC /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F302DA878F7E8BB4B47BCB69 /* Pods-iquue.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = HFRBUUM266;
